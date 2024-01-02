@@ -38,18 +38,14 @@
       "version": "187.0",
       "icon": "https://spew45.github.io/IPA-Repo/IMG_2620.png",
       "down": "https://dnull.xyz/latest_cr_i",
-      "category": "Tweaked Apps",
-      "bundleID": "com.rhino.InstagramApp",
-      "appstore": "com.burbn.instagram"
+      "category": "Tweaked Apps"
     },
     {
       "name": "Null's Brawl",
       "version": "12.1.9",
       "icon": "https://spew45.github.io/IPA-Repo/IMG_2621.png",
       "down": "https://dnull.xyz/latest_bs_i",
-      "category": "Tweaked Apps",
-      "bundleID": "com.frontierdesign.videostar",
-      "appstore": "com.frontierdesign.videostar"
+      "category": "Tweaked Apps"
     }
   ],
   "Emulators": [
