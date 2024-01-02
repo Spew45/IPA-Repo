@@ -43,13 +43,11 @@
       "appstore": "com.burbn.instagram"
     },
     {
-      "name": "VideoStar",
+      "name": "Null's Brawl",
       "version": "12.1.9",
-      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Video.Star.ipa",
+      "icon": "https://spew45.github.io/IPA-Repo/IMG_2621.png",
+      "down": "https://dnull.xyz/latest_bs_i",
       "category": "Tweaked Apps",
-      "debs": [
-        "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/VideoStarHack.dylib"
-      ],
       "bundleID": "com.frontierdesign.videostar",
       "appstore": "com.frontierdesign.videostar"
     }
